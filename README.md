@@ -3,7 +3,7 @@
 <ol>
   <li><h4> Classification </h4></li>
 
-  Jupyter Notebooks comparing using different classification models to see accuracy scores 
+  Jupyter Notebooks uploaded for various Datasets comparing different classification algorithms with their accuracy scores  
 
   <ol type="a">
   <li> Spam base Dataset -> http://archive.ics.uci.edu/ml/datasets/Spambase
