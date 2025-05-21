@@ -14,7 +14,7 @@
   <img src="/Content/rainbow.png">
 </p>
 
-## Weekly Goals ( 24 weeks plan)
+## Weekly Goals (24 Weeks Plan)
 - [X] Week 1: LinkedIn Learning: Revisit Basics
 - [ ] Week 2: LinkedIn Learning Intermediate Level
 - [ ] Week 3: LinkedIn Learning Intermediate Level
