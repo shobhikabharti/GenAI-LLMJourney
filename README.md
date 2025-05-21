@@ -1,7 +1,4 @@
 # GenAI and LLM Scaling
-<p align="center">
-  <img src="/Content/Banner.jpg">
-</p>
 
 <p align="center">
   <img src="/Content/rainbow.png">
@@ -10,7 +7,7 @@
 ## The Journey
 1. Revisit the AIML basics :speech_balloon:
 2. Come up with the learning plan :dash:
-3. Stick to the plan with one thing to revisit everyday.:notes:
+3. Stick to the plan with one thing to revisit everyday. :notes:
 
 
 <p align="center">
