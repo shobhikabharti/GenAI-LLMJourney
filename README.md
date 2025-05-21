@@ -1,4 +1,4 @@
-# Cloud Transformation
+# GenAI and LLM Scaling
 <p align="center">
   <img src="/Content/Banner.jpg">
 </p>
@@ -8,13 +8,10 @@
 </p>
 
 ## The Journey
-1. Revisit the Cloud Basics :speech_balloon:
+1. Revisit the AIML basics :speech_balloon:
 2. Come up with the learning plan :dash:
-3. Make a point to stick to the plan and make wellness a point too :curry:
-4. Upload the content here on daily basis :notes:
-5. Be presentation ready on your content :thumbsup:
-6. Live in the glory of the learned brain :sparkles:
-7. Now that you have learned cloud, take a break, go for an outing...:checkered_flag: :moyai:  
+3. Stick to the plan with one thing to revisit everyday.:notes:
+
 
 <p align="center">
   <img src="/Content/rainbow.png">
