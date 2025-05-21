@@ -20,3 +20,7 @@
 - [ ] 
 
 ## Reference Material :books:  
+
+1. Follow Google Generative AI Path : https://www.cloudskillsboost.google/paths/118
+2. Google Skill Badges : https://www.cloudskillsboost.google/catalog?locale=fr&skill-badge=skill-badge
+3. 
