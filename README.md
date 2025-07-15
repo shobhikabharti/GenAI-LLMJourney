@@ -46,14 +46,14 @@ Work Schedule: 45 hrs/week → Let’s assume ~1.5 hrs/day for study on weekdays
 
 Week	Focus Area	Key Outcomes	Study Time
 
-W1 (Jul 15–21)	GCP GenAI Foundation	Understand core AI concepts, ML vs GenAI, GCP's role	10 hrs  
-W2 (Jul 22–28)	LLMs on GCP	Dive into Vertex AI, PaLM, embeddings, prompt tuning	10 hrs  
-W3 (Jul 29–Aug 4)	Architecting GenAI	Learn architecture design, APIs, model deployment	10 hrs  
-W4 (Aug 5–11)	Responsible AI & Ethics	Focus on governance, safety, and compliance	8 hrs  
-W5 (Aug 12–18)	Business Integration	GenAI use cases, strategy alignment, ROI & productivity	10 hrs  
-W6 (Aug 19–25)	Security & Cost Optimization	Understand security best practices and billing	8 hrs  
-W7 (Aug 26–Sep 1)	Revision + Mock Tests	Full revision, practice Qs, identify weak spots	12 hrs  
-W8 (Sep 2–5)	Final Review	High-yield flashcards, 2 full-length mocks	10 hrs  
+W1 (Jul 15–21)	GCP GenAI Foundation	Understand core AI concepts, ML vs GenAI, GCP's role	- 10 hrs  
+W2 (Jul 22–28)	LLMs on GCP	Dive into Vertex AI, PaLM, embeddings, prompt tuning	- 10 hrs  
+W3 (Jul 29–Aug 4)	Architecting GenAI	Learn architecture design, APIs, model deployment -	10 hrs  
+W4 (Aug 5–11)	Responsible AI & Ethics	Focus on governance, safety, and compliance	- 8 hrs  
+W5 (Aug 12–18)	Business Integration	GenAI use cases, strategy alignment, ROI & productivity -	10 hrs  
+W6 (Aug 19–25)	Security & Cost Optimization	Understand security best practices and billing- 8 hrs  
+W7 (Aug 26–Sep 1)	Revision + Mock Tests	Full revision, practice Qs, identify weak spots	- 12 hrs  
+W8 (Sep 2–5)	Final Review	High-yield flashcards, 2 full-length mocks - 10 hrs  
 
 ---
 
